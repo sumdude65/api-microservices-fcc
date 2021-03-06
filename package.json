@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name":"Imade Osaretin Frank"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +13,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Imade Osaretin Frank"
+	}
+	
 }
